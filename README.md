@@ -1,8 +1,6 @@
-(https://olitunes.com/wp-content/uploads/2013/06/PACollage2.jpg)
-
 ### Hi there 👋, I'am mahsin...
 #### Developer...
-![Developer...]
+![Developer...](https://olitunes.com/wp-content/uploads/2013/06/PACollage2.jpg)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
