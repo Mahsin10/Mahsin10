@@ -1,5 +1,6 @@
-<img  src="https://user-images.githubusercontent.com/116284044/197397671-68413d25-2527-4897-8941-6108f12c7cca.png">
 <h1 align="center">Hi 👋, I'm mahsin</h1>
+<img  src="https://user-images.githubusercontent.com/116284044/197397671-68413d25-2527-4897-8941-6108f12c7cca.png">
+
 <h3 align="center">A passionate frontend developer from Bangladesh.</h3>
 
 - 🌱 I’m currently learning **React Native**
