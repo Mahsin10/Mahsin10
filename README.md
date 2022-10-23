@@ -17,9 +17,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahsin10&label=Profile%20views&color=0e75b6&style=flat" alt="mahsin10" /> </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahsin10&show_icons=true&locale=en&layout=compact" alt="mahsin10" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahsin10&show_icons=true&locale=en" alt="mahsin10" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahsin10&" alt="mahsin10" /></p>
 
 
 
