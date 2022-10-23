@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm mahsin</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh.</h3>
-![image](https://user-images.githubusercontent.com/116284044/197396713-c40d8f1f-7b6d-477c-8431-1412ede033bd.png)
+<img src="https://user-images.githubusercontent.com/116284044/197396713-c40d8f1f-7b6d-477c-8431-1412ede033bd.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahsin10&label=Profile%20views&color=0e75b6&style=flat" alt="mahsin10" /> </p>
 
