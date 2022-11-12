@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm mahsin</h1>
-<img  src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width ="600px" hight ="600px" border-radius= "20px">
+<img  src="https://www.goodcore.co.uk/blog/wp-content/uploads/2019/08/coding-vs-programming-2.jpg">
 
 <h3 align="center">A passionate frontend developer from Bangladesh.</h3>
 
