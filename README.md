@@ -1,13 +1,15 @@
-<img  src="https://www.goodcore.co.uk/blog/wp-content/uploads/2019/08/coding-vs-programming-2.jpg" alt="html5" border-radius="30px">
 <h1 align="center">Hi 👋, I'm mahsin</h1>
-
 <h3 align="center">A passionate frontend developer from Bangladesh.</h3>
 
-- 🌱 I’m currently learning **React Native**
+<img  src="https://www.goodcore.co.uk/blog/wp-content/uploads/2019/08/coding-vs-programming-2.jpg">
+
+
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **react**
 
 - 📫 How to reach me **mdmahsinmia2004@gmail.com**
+
 - https://mycalender10.netlify.app/
 
 
