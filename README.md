@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm mahsin</h1>
-<img  src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width ="300px" hight ="300px" border-radius= "20%">
+<img  src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width ="600px" hight ="600px" border-radius= "20px">
 
 <h3 align="center">A passionate frontend developer from Bangladesh.</h3>
 
